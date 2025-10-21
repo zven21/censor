@@ -1,0 +1,20 @@
+# Censor Example Sensitive Words List
+#
+# This is an example file. Replace with your own word list.
+# 
+# Format:
+# - One word per line
+# - Lines starting with # are comments
+# - Empty lines are ignored
+# - Words are case-insensitive by default
+
+# Example English words
+spam
+scam
+badword
+offensive
+
+# Example Chinese words
+敏感词
+违禁词
+
